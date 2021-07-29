@@ -12,7 +12,7 @@
         }],
         "essential": true
     }],
-    "requiresCompatibilities": [
+    "requiresCompatibilities":  [
         "FARGATE"
     ],
     "cpu": "256",
