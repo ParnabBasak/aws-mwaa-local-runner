@@ -1,5 +1,5 @@
 {
-    "family": "local-runner-fargate",
+    "family": "local-runner-fargate1",
     "networkMode": "awsvpc",
     "executionRoleArn": "arn:aws:iam::122975045562:role/ecsTaskExecutionRole",
     "containerDefinitions": [{
